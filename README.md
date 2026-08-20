@@ -22,9 +22,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarkhedr113-collab&show_icons=true&theme=radial" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=omarkhedr113-collab&show_icons=true&theme=radial" alt="Omar's GitHub Stats" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
