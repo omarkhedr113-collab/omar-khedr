@@ -1,13 +1,9 @@
-# omar-khedr
-Personal GitHub profile README showcasing my skills, projects, and bio.
-
-
 # Hi there, I'm Omar Elsaied Khedr 👋
 
-   * 🎓 **Computer Science & IT Student**
-   * 💻 **Frontend Developer** focusing on **React.js**
-   * 🛠️ Currently building modern web applications & exploring cool AI tools.
-   * ☕ Fun fact: I love watching anime in my free time!
+* 🎓 **Computer Science & IT Student**
+* 💻 **Frontend Developer** focusing on **React.js**
+* 🛠️ Currently building modern web applications & exploring cool AI tools.
+* ☕ Fun fact: I love watching anime in my free time!
 
 ---
 
@@ -26,7 +22,7 @@ Personal GitHub profile README showcasing my skills, projects, and bio.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarkhedr113-collab&show_icons=true&theme=radial" alt="Omar's GitHub Stats" />
 </p>
 
 ---
@@ -34,3 +30,4 @@ Personal GitHub profile README showcasing my skills, projects, and bio.
 ### 📫 Connect with Me
 
 - **Email:** [omarkhedr113@gmail.com](mailto:omarkhedr113@gmail.com)
+- **WhatsApp:** [01503313781](https://wa.me/201503313781)
